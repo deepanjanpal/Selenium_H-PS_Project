@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Vulnerable Web Application",
+    "owner": "Deepanjan Pal",
+    "description": "Vulnerable  web application in a distributed environment."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat Model Vulnerable Web Application",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
